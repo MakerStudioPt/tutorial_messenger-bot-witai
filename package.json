@@ -1,28 +1,21 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-
-  "name": "my-glitch-app",
-  "version": "0.0.1",
-  "description": "What am I about?",
-  "main": "server.js",
+  "name": "facebook-witai-chatbot",
+  "version": "0.1.0",
+  "description": "Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Sandro Miguel Marques",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.15.3"
-  },
-  "engines": {
-    "node": "8.1.x"
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "node-wit": "^3.3.2",
+    "request": "^2.81.0"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/welcome-project"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+    "type": "git",
+    "url": "git://github.com/SandroMiguel/messenger-bot-witai-tutorial.git"
+  }
 }
