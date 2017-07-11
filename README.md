@@ -28,7 +28,6 @@ Por enquanto vamos criar uma história de resposta rápida (sim/não)
 - No campo "The bot says..." escrever "Olá, gostas de falar com máquinas?"
 - Clicar no botão "Set quick replies"
 - No campo "Type a quick reply" escrever "Sim", pressionar a tecla "Enter", escrever "Não" e pressionar a tecla "Enter"
-- Clicar no botão "Bot sends"
 - Clicar em "Add new entity", escrever "yes_no" e pressionar duas vezes seguidas na tecla "Enter"
 - No campo "Value" escrever "yes"
 - Clicar no botão "Bot sends"
