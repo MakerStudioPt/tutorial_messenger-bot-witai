@@ -4,7 +4,8 @@
   "description": "Chat Bot no Facebook com o Wit.ai e Heroku usando o node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Sandro Miguel Marques",
   "license": "ISC",
